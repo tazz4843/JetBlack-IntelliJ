@@ -1,0 +1,26 @@
+<idea-plugin>
+  <id>me.imaskeleton.jetblack</id>
+  <name>JetBlack</name>
+  <version>1.0</version>
+  <vendor email="jetblack@imaskeleton.me" url="https://imaskeleton.me">tazz4843</vendor>
+
+  <description>An actually dark dark theme. This theme uses as close to pure black (rgb(0,0,0)) as possible for background elements, and as close to pure white (rgb(255,255,255)) for other elements.</description>
+
+  <change-notes>Initial Release</change-notes>
+
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
