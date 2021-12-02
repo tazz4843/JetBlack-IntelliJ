@@ -11,7 +11,7 @@ This may mean for some languages you may need to change the color for accents/hi
 
 Contrast is extremely high in most text, since background is rgb(0,0,0) and foreground is rgb(255,255,255).
 
-You want pictures don't you?
+You want pictures don't you? 
 
 ## Installation
 

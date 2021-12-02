@@ -2,18 +2,11 @@
   <id>me.imaskeleton.jetblack</id>
   <name>JetBlack</name>
   <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="jetblack@imaskeleton.me" url="https://imaskeleton.me">tazz4843</vendor>
 
-  <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
-    ]]></description>
+  <description>An actually dark dark theme. This theme uses as close to pure black (rgb(0,0,0)) as possible for background elements, and as close to pure white (rgb(255,255,255)) for foreground elements.</description>
 
-  <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
-    ]]>
-  </change-notes>
+  <change-notes>Initial Release</change-notes>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
   <idea-version since-build="173.0"/>

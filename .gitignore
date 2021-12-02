@@ -1,1 +1,4 @@
 /out/
+/chain.crt
+/private.pem
+/marketplace-zip-signer-cli.jar
