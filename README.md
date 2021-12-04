@@ -14,6 +14,7 @@ Contrast is extremely high in most text, since background is rgb(0,0,0) and fore
 You want pictures don't you? 
 
 ![](./assets/2021-12-04.14-14-05.png)
+![](./assets/2021-12-04.15-29-09.png)
 
 ## Installation
 
