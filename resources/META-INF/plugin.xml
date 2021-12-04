@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>me.imaskeleton.jetblack</id>
   <name>JetBlack</name>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <vendor email="jetblack@imaskeleton.me" url="https://imaskeleton.me">tazz4843</vendor>
 
   <description>An actually dark dark theme. This theme uses as close to pure black (rgb(0,0,0)) as possible for background elements, and as close to pure white (rgb(255,255,255)) for foreground elements.</description>
