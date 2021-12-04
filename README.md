@@ -13,14 +13,18 @@ Contrast is extremely high in most text, since background is rgb(0,0,0) and fore
 
 You want pictures don't you? 
 
+![](./assets/2021-12-04.14-14-05.png)
+
 ## Installation
 
 - Using IDE built-in plugin system:
 
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "JetBlack-IntelliJ"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "JetBlack"</kbd> >
   <kbd>Install Plugin</kbd>
 
 - Manually:
 
   Download the [latest release](https://github.com/tazz4843/JetBlack-IntelliJ/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
+
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/18125.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
